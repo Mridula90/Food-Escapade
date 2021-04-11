@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\mridu\\Desktop\\food_pooling\\build\\google_maps_flutter\\intermediates\\res\\merged\\profile\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mridu\\.gradle\\caches\\transforms-2\\files-2.1\\30a8c856d8fe9a20d62f614b9db1a8ff\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mridu\\Desktop\\food_pooling\\build\\google_maps_flutter\\intermediates\\res\\merged\\profile\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mridu\\.gradle\\caches\\transforms-2\\files-2.1\\30a8c856d8fe9a20d62f614b9db1a8ff\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mridu\\Desktop\\food_pooling\\build\\google_maps_flutter\\intermediates\\res\\merged\\profile\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\mridu\\.gradle\\caches\\transforms-2\\files-2.1\\30a8c856d8fe9a20d62f614b9db1a8ff\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

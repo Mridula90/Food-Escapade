@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338034276072",
+    "project_id": "food-pooling",
+    "storage_bucket": "food-pooling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338034276072:android:0358013696c0be357afb5d",
+        "android_client_info": {
+          "package_name": "com.example.food_pooling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338034276072-sv6poqddu0m87k1oa1avrr7cfhvf1jhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5PFquLWIjJFt5MgJ21y7k8esjTTGUkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338034276072-sv6poqddu0m87k1oa1avrr7cfhvf1jhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

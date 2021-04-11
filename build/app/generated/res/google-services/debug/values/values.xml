@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">338034276072-sv6poqddu0m87k1oa1avrr7cfhvf1jhj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">338034276072</string>
+    <string name="google_api_key" translatable="false">AIzaSyBE5PFquLWIjJFt5MgJ21y7k8esjTTGUkk</string>
+    <string name="google_app_id" translatable="false">1:338034276072:android:0358013696c0be357afb5d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBE5PFquLWIjJFt5MgJ21y7k8esjTTGUkk</string>
+    <string name="google_storage_bucket" translatable="false">food-pooling.appspot.com</string>
+    <string name="project_id" translatable="false">food-pooling</string>
+</resources>
